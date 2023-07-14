@@ -28,7 +28,7 @@ module.exports = new withModuleFederationPlugin({
 //       name: 'trading-partner',
 
 //       exposes: {
-//         './Module': './src/app/IM-FE-trading-partner/IM-FE-trading-partner.module.ts',
+//         './Module': './src/app/trading-partner/trading-partner.module.ts',
 //       },
 
 //       shared: {
